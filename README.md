@@ -1,4 +1,5 @@
 # best-repo-ever
 # Hello
 # third lines
-# Some new changes
+
+# Test conflict branches
